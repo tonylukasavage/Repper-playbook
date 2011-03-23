@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="5e13000f-d451-492c-9bb7-917e13e5bae8" projectUUID="5e13000f-d451-492c-9bb7-917e13e5bae8" sdkVersion="4.5.0" uuid="d86f775e-feea-4a11-b5d2-a7983ca1921b" version="9">
+  <projects/>
+  <src/>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="d86f775e-feea-4a11-b5d2-a7983ca1921b"/>
+    <linked location="C:/Users/Tony/Adobe Flash Builder Burrito Preview/Repper-playbook/libs" path="/libs" position="1" uuid="d86f775e-feea-4a11-b5d2-a7983ca1921b"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>
